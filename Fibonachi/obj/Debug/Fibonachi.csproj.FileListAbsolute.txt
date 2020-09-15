@@ -1,0 +1,13 @@
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csprojAssemblyReference.cache
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+E:\Own\КНУ\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
+F:\Own\КНУ\1 курс\Visual Studio\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+F:\Own\КНУ\1 курс\Visual Studio\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+F:\Own\КНУ\1 курс\Visual Studio\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+F:\Own\КНУ\1 курс\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csprojAssemblyReference.cache
+F:\Own\КНУ\1 курс\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+F:\Own\КНУ\1 курс\Visual Studio\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb
